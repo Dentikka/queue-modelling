@@ -80,7 +80,7 @@ params = {
 }
 
 
-save_path: Path = Path('../img/sampling')
+save_path: Path = Path('../img/denis_sampling')
 
 
 for i in range(5):

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.7.19)  19 DEC 2023 19:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.7.19)  19 DEC 2023 21:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1355,7 +1355,10 @@ Package: pgfplotstable 2021/05/15 v1.18.1 Table typesetting and Pretty-printing
 (d:/texlive/2021/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.code.te
 x
 (d:/texlive/2021/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.coltype
-.code.tex)))) (d:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+.code.tex)))
+Package hyperref Info: Option `unicode' set `true' on input line 95.
+Package hyperref Info: Option `colorlinks' set `true' on input line 95.
+) (d:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
 (d:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
@@ -1485,7 +1488,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 11.
+Package hyperref Info: Link coloring ON on input line 11.
 
 (d:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1818,51 +1821,73 @@ on input line 257.
 avers_N_10_lambda_20_exp.png>] [21
 
 ]
-<../img/denis_sampling/t_10_1.png, id=628, 462.528pt x 346.896pt>
+<../img/denis_sampling/t_10_1.png, id=629, 578.16pt x 578.16pt>
 File: ../img/denis_sampling/t_10_1.png Graphic file (type png)
 <use ../img/denis_sampling/t_10_1.png>
 Package pdftex.def Info: ../img/denis_sampling/t_10_1.png  used on input line 3
-17.
-(pdftex.def)             Requested size: 245.83282pt x 184.37802pt.
- [22
+15.
+(pdftex.def)             Requested size: 245.83282pt x 245.82501pt.
+
+Overfull \vbox (47.5138pt too high) detected at line 315
+ []
+
+[22
 
  <../img/denis_sampling/t_10_1.png>]
-<../img/denis_sampling/t_10_3.png, id=655, 462.528pt x 346.896pt>
+<../img/denis_sampling/t_10_3.png, id=656, 578.16pt x 578.16pt>
 File: ../img/denis_sampling/t_10_3.png Graphic file (type png)
 <use ../img/denis_sampling/t_10_3.png>
 Package pdftex.def Info: ../img/denis_sampling/t_10_3.png  used on input line 3
-17.
-(pdftex.def)             Requested size: 245.83282pt x 184.37802pt.
- [23
+15.
+(pdftex.def)             Requested size: 245.83282pt x 245.82501pt.
+
+Overfull \vbox (47.5138pt too high) detected at line 315
+ []
+
+[23
 
  <../img/denis_sampling/t_10_3.png>]
-<../img/denis_sampling/t^2_10_3.png, id=682, 462.528pt x 346.896pt>
+<../img/denis_sampling/t^2_10_3.png, id=683, 578.16pt x 578.16pt>
 File: ../img/denis_sampling/t^2_10_3.png Graphic file (type png)
 <use ../img/denis_sampling/t^2_10_3.png>
 Package pdftex.def Info: ../img/denis_sampling/t^2_10_3.png  used on input line
- 317.
-(pdftex.def)             Requested size: 245.83282pt x 184.37802pt.
- [24
+ 315.
+(pdftex.def)             Requested size: 245.83282pt x 245.82501pt.
+
+Overfull \vbox (47.59506pt too high) detected at line 315
+ []
+
+[24
 
  <../img/denis_sampling/t^2_10_3.png>]
-<../img/denis_sampling/t^2_10_10.png, id=709, 462.528pt x 346.896pt>
+<../img/denis_sampling/t^2_10_10.png, id=710, 578.16pt x 578.16pt>
 File: ../img/denis_sampling/t^2_10_10.png Graphic file (type png)
 <use ../img/denis_sampling/t^2_10_10.png>
 Package pdftex.def Info: ../img/denis_sampling/t^2_10_10.png  used on input lin
-e 317.
-(pdftex.def)             Requested size: 245.83282pt x 184.37802pt.
- [25
+e 315.
+(pdftex.def)             Requested size: 245.83282pt x 245.82501pt.
+
+Overfull \vbox (47.59506pt too high) detected at line 315
+ []
+
+[25
 
  <../img/denis_sampling/t^2_10_10.png>]
-<../img/denis_sampling/e^t_10_20.png, id=737, 462.528pt x 346.896pt>
+<../img/denis_sampling/e^t_10_20.png, id=738, 578.16pt x 578.16pt>
 File: ../img/denis_sampling/e^t_10_20.png Graphic file (type png)
 <use ../img/denis_sampling/e^t_10_20.png>
 Package pdftex.def Info: ../img/denis_sampling/e^t_10_20.png  used on input lin
-e 317.
-(pdftex.def)             Requested size: 245.83282pt x 184.37802pt.
- [26
+e 315.
+(pdftex.def)             Requested size: 245.83282pt x 245.82501pt.
 
- <../img/denis_sampling/e^t_10_20.png>]
+Overfull \vbox (47.5138pt too high) detected at line 315
+ []
+
+[26
+
+ <../img/denis_sampling/e^t_10_20.png>] [27
+
+]
 \tf@nav=\write6
 \openout6 = `Big_Data_Slides.nav'.
 
@@ -1872,7 +1897,8 @@ e 317.
 \tf@snm=\write8
 \openout8 = `Big_Data_Slides.snm'.
 
- 
+
+
 AED: lastpage setting LastPage
 (./Big_Data_Slides.aux)
 
@@ -1882,10 +1908,10 @@ Package rerunfilecheck Info: File `Big_Data_Slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 39946 strings out of 478542
- 908428 string characters out of 5854402
- 1334599 words of memory out of 5000000
- 56962 multiletter control sequences out of 15000+600000
+ 39952 strings out of 478542
+ 908496 string characters out of 5854402
+ 1334991 words of memory out of 5000000
+ 56966 multiletter control sequences out of 15000+600000
  421998 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,16n,127p,759b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1905,10 +1931,10 @@ ype1/public/cm-super/sfss0800.pfb><d:/texlive/2021/texmf-dist/fonts/type1/publi
 c/cm-super/sfss1000.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/cm-super
 /sfss1440.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1000.
 pfb>
-Output written on Big_Data_Slides.pdf (26 pages, 888070 bytes).
+Output written on Big_Data_Slides.pdf (27 pages, 993541 bytes).
 PDF statistics:
- 832 PDF objects out of 1000 (max. 8388607)
- 715 compressed objects within 8 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 858 PDF objects out of 1000 (max. 8388607)
+ 740 compressed objects within 8 object streams
+ 58 named destinations out of 1000 (max. 500000)
  233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
